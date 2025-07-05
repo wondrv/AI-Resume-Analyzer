@@ -1,7 +1,30 @@
 {
   "name": "ai-resume-analyzer",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
+  "description": "A powerful AI-powered resume analyzer using Google Gemini API with React, Vite, and Tailwind CSS",
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wondrv/ai-resume-analyzer.git"
+  },
+  "keywords": [
+    "resume",
+    "analyzer",
+    "ai",
+    "gemini",
+    "react",
+    "vite",
+    "tailwind",
+    "pdf",
+    "job",
+    "career"
+  ],
+  "homepage": "https://github.com/wondrv/ai-resume-analyzer#readme",
+  "bugs": {
+    "url": "https://github.com/wondrv/ai-resume-analyzer/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
